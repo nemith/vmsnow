@@ -1,1 +1,3 @@
-![snow demo]](https://github.com/nemith/vmsnow/blob/main/demo.gif?raw=true)
+# vmsnow.rs
+
+![snow demo]](/nemith/vmsnow/blob/main/demo.gif?raw=true)
