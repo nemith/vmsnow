@@ -14,7 +14,7 @@ struct Flake {
 const FLAKES: &str = "*❄.҉֍۞";
 
 fn main() {
-    let colors: Vec<u8> = vec!(7,8,15,249,250,251,252,253,254,255);
+    let colors: Vec<u8> = vec!(7,8,14,15,31,39,51,74,75,87,105,110,111,117,147,153,249,250,251,252,253,254,255);
 
     let term = Term::stdout();
     term.hide_cursor().unwrap();
